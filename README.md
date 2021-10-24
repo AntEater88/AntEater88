@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @AntEater88
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+AntEater88/AntEater88 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+im intersted in rooting my phone (moto g stylus 2020) or every device i own for that matter
+, just fot that simple fact.... "OWN" i own the device i shoud not havbe
+any limitations, thanfully for termux root acces can be obtained!!!
